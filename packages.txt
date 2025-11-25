@@ -1,0 +1,4 @@
+libgdal-dev
+libproj-dev
+gfortran
+libgeos-dev
