@@ -1,4 +1,6 @@
+gfortran
+gcc
 libgdal-dev
 libproj-dev
-gfortran
 libgeos-dev
+libhdf5-dev
