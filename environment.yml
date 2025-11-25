@@ -1,0 +1,15 @@
+name: wrf-terkep
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - streamlit
+  - wrf-python
+  - cartopy
+  - geopandas
+  - netcdf4
+  - matplotlib
+  - scipy
+  - imageio
+  - requests
+  - shapely
