@@ -2,14 +2,15 @@ name: wrf-terkep
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - streamlit
+  - python=3.10
   - wrf-python
   - cartopy
   - geopandas
   - netcdf4
-  - matplotlib
-  - scipy
-  - imageio
-  - requests
-  - shapely
+  - streamlit
+  - pip
+  - pip:
+    - imageio
+    - requests
+    - scipy
+    - matplotlib
