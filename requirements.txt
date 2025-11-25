@@ -1,12 +1,12 @@
 streamlit
 numpy<2.0
-setuptools<70.0.0
+setuptools
 wheel
-Cython
 netCDF4
 matplotlib
 scipy
 geopandas
+shapely
 cartopy
 imageio
 requests
